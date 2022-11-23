@@ -12,7 +12,7 @@ const List = () => {
     {
       id: 1143155,
       name : "ccl-1",
-      ip : "192.168.56.1",
+      ip : "10.10.237.151",
       subnet: "255.255.255.0",
       date: "12 Dec",
       lab: "Cloud Lab",
@@ -21,7 +21,7 @@ const List = () => {
     {
       id: 2235235,
       name : "ccl-2",
-      ip : "192.168.56.23",
+      ip : "10.10.237.152",
       subnet: "255.255.255.0",
       date: "1 March",
       lab: "Cloud Lab",
@@ -30,7 +30,7 @@ const List = () => {
     {
       id: 2342353,
       name : "ccl-3",
-      ip : "192.168.56.35",
+      ip : "10.10.237.153",
       subnet: "255.255.255.0",
       date: "21 Aug",
       lab: "Cloud Lab",
@@ -39,7 +39,7 @@ const List = () => {
     {
       id: 2357741,
       name : "ccl-4",
-      ip : "192.168.56.40",
+      ip : "10.10.237.154",
       subnet: "255.255.255.0",
       date: "1 June",
       lab: "Cloud Lab",
@@ -48,7 +48,7 @@ const List = () => {
     {
       id: 2342355,
       name : "ccl-5",
-      ip : "192.168.56.46",
+      ip : "10.10.237.155",
       subnet: "255.255.255.0",
       date: "5 March",
       lab: "Cloud Lab",
